@@ -221,3 +221,6 @@ footer .legal { margin-top: 32px; padding-top: 20px; border-top: 1px solid rgba(
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
 .espacio-img img { width: 100%; height: auto; border-radius: 18px; box-shadow: 0 10px 30px rgba(10,42,138,.12); }
+section.alt .tarjeta.meta.general {
+  background: var(--azul);
+}
